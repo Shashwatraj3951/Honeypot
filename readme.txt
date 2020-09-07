@@ -1,4 +1,4 @@
-Documentation available @ https://github.com/shashwatraj3951/Honeypot
+Documentation available @ https://github.com/Shashwatraj3951/Honeypot
 
 This tool is tested on :--
 
