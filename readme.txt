@@ -5,8 +5,7 @@ This tool is tested on :--
 1. Kali Linux
 2. Parrot
 3. Ubuntu
-4. Termux
-5. Windows
+4. Windows
 
 This tool helps you to secure your computer or server fron hackers.
 
